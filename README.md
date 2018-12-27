@@ -15,8 +15,12 @@ The dish rankings are dynamic and encourages restaurants to compete with one ano
 
 # HOW TO RUN
 
-After having both this and the GraphQL server downloaded, yarn && yarn start inside of both folders.
+After cloning both food-list and graphql-server, run the commands yarn && yarn start inside of both folders. This will allow the GraphQL Server to run first so information can display correctly on the local website.
 
 # ABOUT THE GRAPHQL SERVER
 
 The GraphQL server is a stitched schema of Yelp’s GraphQL API and our own schema, which stores the dishes.
+
+# ADDITIONAL INFORMATION
+
+This website is still a work in progress. Currently, the Los Angeles and San Francisco locations pull the correct data. Other locations will be available in the future!
