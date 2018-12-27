@@ -1,0 +1,43 @@
+#foodInfo {
+  margin - left: 0px;
+  padding - top: 5px;
+  width: 500px;
+  padding - bottom: 50px;
+  /*height: 100%;*/
+  /*top: 80px;   */
+  /*background-color: #c8c8c8;*/
+  background - color: rgba(182, 63, 63, 0);
+  min - height: 100 %;
+}
+
+#test {
+  background - color: rgba(204, 201, 201, 0.801);
+  text - indent: -9999px;
+  width: 500px;
+  margin - left: -30px;
+  justify - content: space - around
+}
+
+#mapContainer {
+  background - color: white;
+  border - style: outset;
+  display: flex;
+  align - items: top;
+
+  width: 400px;
+  height: 600px;
+
+}
+
+#Simplemap {
+  width: 400px;
+  height: 400px;
+  border - inline - end: 50px;
+  background - color: rgba(255, 255, 255, 0);
+}
+
+#foodCardContainer {
+  display: flex;
+  padding: 5 %;
+
+}
